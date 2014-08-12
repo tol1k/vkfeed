@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 APP_URL = 'http://decent-trail-670.appspot.com/'
-'''URL of the application.'''
+'''URL of the my application.'''
 
 API_URL = 'http://api.vk.com/'
 '''URL of VKontakte API.'''
