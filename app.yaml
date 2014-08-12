@@ -1,4 +1,4 @@
-application: vkontakte-feed
+application: decent-trail-670
 version: 1
 runtime: python27
 threadsafe: true
